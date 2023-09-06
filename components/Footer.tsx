@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../app/img/logo_large.png";
+import logo from "../app/img/logoLarge.png";
 import FooterSections from "./FooterSections";
 import youtube from "../app/img/youtube.png";
 import tiwtter from "../app/img/tiwtter.png";
